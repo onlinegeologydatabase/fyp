@@ -1,0 +1,47 @@
+<html>
+<head><title>admin_office</title>
+<link rel="stylesheet" type="text/css" href="styleonoffice.css">
+</head>
+<body>
+<div id="top">
+<img src="logo.png" alt="logo_picture" style="height:100px; weight:100px">
+<p id ="pagename"> GEO DATA Service Library (ADMIN)</p>
+</div>
+</header>
+<div id="table bar;">
+	<div id="bar"><a href="main.php">HOME</a></div>
+	<div id="bar">	profile</div>
+	<div id="bar">	logout</div>
+</div>
+
+<div id="admin_content">
+	<div id="left_side_bar">
+		<div id="mainE1"><H6>UPDATE</H6>
+		<span id="sakai"> <ul>
+								<li>library</li>
+								<li>picture</li>
+								<li>map</li>
+		</span>
+		</div>
+		<div id="mainE1"><H6>upload</H6>
+		<span id="sakai"> <ul>
+								<li>library</li>
+								<li>picture</li>
+								<li>map</li>
+		</span>
+		</div>
+	
+		<div id="mainE1"><H6>approve/reply</H6>
+		<span id="sakai"> <ul>
+								<li>question</li>
+								<li>approval</li>
+		</span>
+		</div>				
+		</div>
+	<div id="right_side_bar">
+	</div>
+</div>
+<footer>
+</footer>
+</body>
+</html>
